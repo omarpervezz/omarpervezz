@@ -1,69 +1,74 @@
 <h1 align="center">Hi 👋, I'm Omar Pervez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F79F&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Next.js+%7C+TypeScript+Specialist;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F79F&center=true&vCenter=true&width=650&lines=Frontend+Engineer+who+ships+real+products;Next.js+%7C+TypeScript+%7C+Scalable+Apps;Building+SaaS%2C+AI+Tools+%26+Production+Systems;Open+to+Remote+Opportunities" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/omarpervezz">
-    <img src="https://komarev.com/ghpvc/?username=omarpervezz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=omarpervezz&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-* 🔭 Building **production-grade web apps** with Next.js & TypeScript
-* 🚀 Focused on **scalable SaaS & high-performance frontend systems**
-* 👯 Open to collaborating on **startups, AI tools & impactful products**
-* 🌱 Exploring **backend systems, real-time apps & architecture design**
-* 💬 Ask me about **React, Next.js, APIs, Stripe & frontend scalability**
-* ⚡ Delivered **30+ freelance projects with consistent 5⭐ ratings**
+I’m a **Frontend Engineer focused on building real, production-grade applications** — not just UI.
+
+* 🚀 I specialize in **Next.js + TypeScript ecosystems**
+* 🧩 I build **SaaS platforms, MVPs, and eCommerce systems**
+* ⚡ I care about **performance, scalability, and clean architecture**
+* 💼 Delivered **30+ freelance projects with 5⭐ client satisfaction**
+
+---
+
+## 🚧 What I'm Building Now
+
+* 🔭 Scalable **Next.js applications with API-driven architecture**
+* 💳 **Stripe-powered monetization systems**
+* 🌍 Products with **real-world workflows (geo-location, async jobs)**
+* 🧠 Improving **system design & frontend architecture at scale**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,supabase,git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Selected Work
 
-### 🧩 MatchAndFix (MVP Platform)
+### 🧩 MatchAndFix — MVP Platform
 
-* ⚡ Built with **Next.js + TypeScript**
-* 🌍 Geolocation-based workflows
-* 🔐 Supabase authentication
-* 💳 Stripe payment integration
+* Built full frontend with **Next.js + TypeScript**
+* Designed **geolocation-based user flows**
+* Integrated **Supabase auth + Stripe payments**
+* Worked with async job processing systems
   🔗 https://github.com/omarpervezz/matchandfix
 
 ---
 
-### 🛒 FavorSelect (eCommerce Platform)
+### 🛒 FavorSelect — eCommerce System
 
-* 🛍️ Product, cart & checkout systems
-* 🔁 Reusable UI components
-* 🔗 API-driven architecture
+* Developed **product, cart, checkout flows**
+* Built reusable component system
+* Integrated APIs with backend teams
   🔗 https://github.com/FavorSelect
 
 ---
 
 ### ✈️ Travel Booking Platform
 
-* 🎨 Figma → Production UI
-* ✈️ Flight search & booking system
-* 📊 Admin dashboard with Redux
+* Converted **Figma designs → production UI**
+* Implemented **flight search & booking**
+* Built **admin dashboards with Redux**
   🔗 https://github.com/omarpervezz/OTA_WEB
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarpervezz&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -72,10 +77,18 @@
 
 ---
 
-## 🧠 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarpervezz&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omarpervezz/omarpervezz/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -93,14 +106,23 @@
 
 ---
 
-## 🧬 Philosophy
+## 🎯 Positioning
 
 <p align="center">
-  <b>Build real products • Solve real problems • Keep shipping 🚀</b>
+  <b>Frontend Engineer → Product Builder → Future Full-Stack Architect</b>
+</p>
+
+---
+
+## 💡 Philosophy
+
+<p align="center">
+  <b>Build things that people actually use.</b><br/>
+  <b>Focus on impact, not just code.</b>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following me!
+  ⭐ If you find my work interesting, feel free to follow!
 </p>
