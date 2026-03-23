@@ -1,87 +1,106 @@
 <h1 align="center">Hi 👋, I'm Omar Pervez</h1>
-<h3 align="center">Frontend Engineer | Next.js • TypeScript • Scalable Web Apps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F79F&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Next.js+%7C+TypeScript+Specialist;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/omarpervezz">
+    <img src="https://komarev.com/ghpvc/?username=omarpervezz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently building scalable, production-grade web apps with **Next.js & TypeScript**
-- 👯 I’m looking to collaborate on **SaaS, AI-driven platforms, and impactful startup products**
-- 🤝 I’m exploring **system design, performance optimization, and scalable architectures**
-- 🌱 Currently learning more about **backend systems & real-time applications**
-- 💬 Ask me about **React, Next.js, APIs, Stripe integration, and frontend architecture**
-- ⚡ Fun fact: I’ve delivered **30+ freelance projects with consistent 5⭐ ratings**
+* 🔭 Building **production-grade web apps** with Next.js & TypeScript
+* 🚀 Focused on **scalable SaaS & high-performance frontend systems**
+* 👯 Open to collaborating on **startups, AI tools & impactful products**
+* 🌱 Exploring **backend systems, real-time apps & architecture design**
+* 💬 Ask me about **React, Next.js, APIs, Stripe & frontend scalability**
+* ⚡ Delivered **30+ freelance projects with consistent 5⭐ ratings**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-- Next.js
-- React.js
-- TypeScript
-- Tailwind CSS
+<p align="center">
 
-### ⚙️ State & Data
-- Redux
-- Zustand
-- REST APIs
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,git,github,vscode" />
 
-### 🔗 Backend & Services
-- Node.js (integration level)
-- Supabase
-- Stripe (payments)
-
-### 🧰 Tools & Workflow
-- Git & GitHub
-- Figma to Code
-- AI Tools (ChatGPT, Copilot, Claude)
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🧩 MatchAndFix (MVP Platform)
-- Built full frontend with **Next.js + TypeScript**
-- Implemented **geolocation-based workflows**
-- Integrated **Supabase auth + Stripe payments**
-- Designed dynamic UI with async processing support  
-🔗 https://github.com/omarpervezz/matchandfix
+
+* ⚡ Built with **Next.js + TypeScript**
+* 🌍 Geolocation-based workflows
+* 🔐 Supabase authentication
+* 💳 Stripe payment integration
+  🔗 https://github.com/omarpervezz/matchandfix
 
 ---
 
 ### 🛒 FavorSelect (eCommerce Platform)
-- Developed scalable **product, cart, and checkout flows**
-- Built reusable component system
-- Collaborated with backend for API integration  
-🔗 https://github.com/FavorSelect
+
+* 🛍️ Product, cart & checkout systems
+* 🔁 Reusable UI components
+* 🔗 API-driven architecture
+  🔗 https://github.com/FavorSelect
 
 ---
 
 ### ✈️ Travel Booking Platform
-- Built responsive UI from **Figma to production**
-- Implemented **flight search & booking features**
-- Developed admin dashboards with Redux  
-🔗 https://github.com/omarpervezz/OTA_WEB
+
+* 🎨 Figma → Production UI
+* ✈️ Flight search & booking system
+* 📊 Admin dashboard with Redux
+  🔗 https://github.com/omarpervezz/OTA_WEB
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarpervezz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarpervezz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarpervezz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarpervezz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarpervezz&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 
-- 💼 Freelance Profile: https://pph.me/omarpervez
-- 📧 Email: omar@omarpervez.com
+<p align="center">
+  <a href="mailto:omar@omarpervez.com">
+    <img src="https://img.shields.io/badge/Email-omar%40omarpervez.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://pph.me/omarpervez">
+    <img src="https://img.shields.io/badge/Freelance-PeoplePerHour-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 💡 Philosophy
+## 🧬 Philosophy
 
-> Build real products. Solve real problems. Keep shipping 🚀
+<p align="center">
+  <b>Build real products • Solve real problems • Keep shipping 🚀</b>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
