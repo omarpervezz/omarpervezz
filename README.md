@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=omarpervezz&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
 
 ## 🧠 Who I Am
 
@@ -19,7 +18,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 * ⚡ I care about **performance, scalability, and clean architecture**
 * 💼 Delivered **30+ freelance projects with 5⭐ client satisfaction**
 
----
 
 ## 🚧 What I'm Building Now
 
@@ -28,7 +26,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 * 🌍 Products with **real-world workflows (geo-location, async jobs)**
 * 🧠 Improving **system design & frontend architecture at scale**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +33,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,supabase,git,github,vscode" />
 </p>
 
----
 
 ## 🔥 Selected Work
 
@@ -48,7 +44,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 * Worked with async job processing systems
   🔗 https://github.com/omarpervezz/matchandfix
 
----
 
 ### 🛒 FavorSelect — eCommerce System
 
@@ -57,7 +52,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 * Integrated APIs with backend teams
   🔗 https://github.com/FavorSelect
 
----
 
 ### ✈️ Travel Booking Platform
 
@@ -66,7 +60,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 * Built **admin dashboards with Redux**
   🔗 https://github.com/omarpervezz/OTA_WEB
 
----
 
 ## 📊 GitHub Analytics
 
@@ -75,7 +68,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarpervezz&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 📈 Activity Graph
 
@@ -83,7 +75,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarpervezz&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -94,7 +85,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   />
 </p>
 
----
 
 ## 🌍 Connect With Me
 
@@ -107,7 +97,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   </a>
 </p>
 
----
 
 ## 🎯 Positioning
 
@@ -115,7 +104,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   <b>Frontend Engineer → Product Builder → Future Full-Stack Architect</b>
 </p>
 
----
 
 ## 💡 Philosophy
 
@@ -124,7 +112,6 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
   <b>Focus on impact, not just code.</b>
 </p>
 
----
 
 <p align="center">
   ⭐ If you find my work interesting, feel free to follow!
