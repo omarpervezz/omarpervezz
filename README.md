@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Pervez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F79F&center=true&vCenter=true&width=650&lines=Frontend+Engineer+who+ships+real+products;Next.js+%7C+TypeScript+%7C+Scalable+Apps;Building+SaaS%2C+AI+Tools+%26+Production+Systems;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&pause=1800&color=00F79F&center=true&vCenter=true&width=720&lines=Frontend+Engineer;Next.js+%7C+TypeScript+Specialist;Building+Scalable+Web+Apps;Open+to+Remote+Opportunities" />
 </p>
 
 <p align="center">
