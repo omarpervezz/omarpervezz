@@ -90,10 +90,25 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 
 <p align="center">
   <a href="mailto:omar@omarpervez.com">
-    <img src="https://img.shields.io/badge/Email-omar%40omarpervez.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-omar%40omarpervez.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://pph.me/omarpervez">
-    <img src="https://img.shields.io/badge/Freelance-PeoplePerHour-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Freelance-PeoplePerHour-00a86b?style=for-the-badge" />
+  </a>
+  <a href="https://omarpervez.com">
+    <img src="https://img.shields.io/badge/Website-omarpervez.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/omarpervz">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/omarpervez91">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/omarpervez91">
+    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/omarpervez">
+    <img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
