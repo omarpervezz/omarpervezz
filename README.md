@@ -88,7 +88,10 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omarpervezz/omarpervezz/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/omarpervezz/omarpervezz/output/github-snake.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
 
 ---
