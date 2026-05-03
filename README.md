@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Pervez</h1>
+<h1 align="center">Hi, I'm Omar Pervez</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&pause=1800&color=00F79F&center=true&vCenter=true&width=720&lines=Frontend+Engineer;Next.js+%7C+TypeScript+Specialist;Building+Scalable+Web+Apps;Open+to+Remote+Opportunities" />
@@ -9,59 +9,62 @@
 </p>
 
 
-## 🧠 Who I Am
+## Who I Am
 
 I’m a **Frontend Engineer focused on building real, production-grade applications** — not just UI.
 
-* 🚀 I specialize in **Next.js + TypeScript ecosystems**
-* 🧩 I build **SaaS platforms, MVPs, and eCommerce systems**
-* ⚡ I care about **performance, scalability, and clean architecture**
-* 💼 Delivered **30+ freelance projects with 5⭐ client satisfaction**
+I specialize in **Next.js + TypeScript ecosystems**  
+I build **SaaS platforms, MVPs, and eCommerce systems**  
+I care about **performance, scalability, and clean architecture**  
+Delivered **30+ freelance projects with 5-star client satisfaction**  
 
 
-## 🚧 What I'm Building Now
+## What I'm Building Now
 
-* 🔭 Scalable **Next.js applications with API-driven architecture**
-* 💳 **Stripe-powered monetization systems**
-* 🌍 Products with **real-world workflows (geo-location, async jobs)**
-* 🧠 Improving **system design & frontend architecture at scale**
+Scalable **Next.js applications with API-driven architecture**  
+**Stripe-powered monetization systems**  
+Products with **real-world workflows (geo-location, async jobs)**  
+Improving **system design and frontend architecture at scale**  
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,supabase,git,github,vscode" />
 </p>
 
 
-## 🔥 Selected Work
+## Selected Work
 
-### 🧩 MatchAndFix — MVP Platform
+### MatchAndFix — MVP Platform
 
-* Built full frontend with **Next.js + TypeScript**
-* Designed **geolocation-based user flows**
-* Integrated **Supabase auth + Stripe payments**
-* Worked with async job processing systems
-  🔗 https://github.com/omarpervezz/matchandfix
+Built full frontend with **Next.js + TypeScript**  
+Designed **geolocation-based user flows**  
+Integrated **Supabase auth and Stripe payments**  
+Worked with async job processing systems  
 
-
-### 🛒 FavorSelect — eCommerce System
-
-* Developed **product, cart, checkout flows**
-* Built reusable component system
-* Integrated APIs with backend teams
-  🔗 https://github.com/FavorSelect
+https://github.com/omarpervezz/matchandfix
 
 
-### ✈️ Travel Booking Platform
+### FavorSelect — eCommerce System
 
-* Converted **Figma designs → production UI**
-* Implemented **flight search & booking**
-* Built **admin dashboards with Redux**
-  🔗 https://github.com/omarpervezz/OTA_WEB
+Developed **product, cart, checkout flows**  
+Built reusable component system  
+Integrated APIs with backend teams  
+
+https://github.com/FavorSelect
 
 
-## 📊 GitHub Analytics
+### Travel Booking Platform
+
+Converted **Figma designs to production UI**  
+Implemented **flight search and booking**  
+Built **admin dashboards with Redux**  
+
+https://github.com/omarpervezz/OTA_WEB
+
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarpervezz&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -69,14 +72,14 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 </p>
 
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarpervezz&theme=tokyo-night&hide_border=true" />
 </p>
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img
@@ -86,7 +89,7 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 </p>
 
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:omar@omarpervez.com">
@@ -113,14 +116,14 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 </p>
 
 
-## 🎯 Positioning
+## Positioning
 
 <p align="center">
   <b>Frontend Engineer → Product Builder → Future Full-Stack Architect</b>
 </p>
 
 
-## 💡 Philosophy
+## Philosophy
 
 <p align="center">
   <b>Build things that people actually use.</b><br/>
@@ -129,5 +132,5 @@ I’m a **Frontend Engineer focused on building real, production-grade applicati
 
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to follow!
+  If you find my work interesting, feel free to follow.
 </p>
